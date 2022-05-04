@@ -1,0 +1,38 @@
+{
+  "name": "ayub-crm",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "chart.js": "^3.7.1",
+    "chartjs-plugin-labels": "^1.1.0",
+    "core-js": "^2.6.5",
+    "firebase": "^9.6.11",
+    "lodash": "^4.17.21",
+    "materialize-css": "^1.0.0-rc.2",
+    "prop-types": "^15.8.1",
+    "register-service-worker": "^1.6.2",
+    "vue": "^2.6.6",
+    "vue-chartjs": "^4.0.6",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.0.1",
+    "vuejs-paginate": "^2.1.0",
+    "vuelidate": "^0.7.7",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.5.0",
+    "@vue/cli-plugin-pwa": "^3.5.0",
+    "@vue/cli-service": "^3.5.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.5.21"
+  },
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
